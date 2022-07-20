@@ -1,0 +1,12 @@
+.navBar > * {
+    display: inline-block;
+    text-align: center;
+}
+.introduction> * {
+    display: inline-block;
+    text-align: center;
+}
+.welcome> * {
+    padding: 70px 0;
+}
+body {background-color: rgb(152, 214, 247);}
