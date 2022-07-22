@@ -1,6 +1,19 @@
-.navBar> * {
-    display: inline-block;
-    text-align: center;
+.header{
+    display: flex;
+    color: #F9FAF8;
+    background-color: #1F2937;
+    padding: 20px 0px 20px 100px;
+    align-items: center;
+}
+.logo img{
+    width: 250px;
+    height: 150px;
+    margin-right: auto;
+}
+.navBar{
+    display: flex;
+    margin-left: auto;
+    padding: 0px 100px 0px 0px;  
 }
 .footer > * {
     display: inline-block;
@@ -22,9 +35,6 @@
     padding: 70px 0;
 }
 
-.header{
-    background-color: rgb(152, 214, 247);
-}
 .main{
     background-color: rgb(162, 255, 112);
 }
