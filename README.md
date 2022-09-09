@@ -1,1 +1,1 @@
-## Sample Landing Page to a a property sale website
+## Sample Landing Page to a Travel Website

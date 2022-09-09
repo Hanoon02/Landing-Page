@@ -1,43 +1,34 @@
 .header{
-    display: flex;
-    color: #F9FAF8;
-    background-color: #1F2937;
-    padding: 20px 0px 20px 100px;
+    display: inline-flex;
     align-items: center;
 }
-.logo img{
-    width: 250px;
-    height: 150px;
-    margin-right: auto;
-}
-.navBar{
-    display: flex;
-    margin-left: auto;
-    padding: 0px 100px 0px 0px;  
-}
-.footer > * {
-    display: inline-block;
+
+.main-title{
+    width: 1000px;
     text-align: center;
-}
-.introduction> * {
-    display: inline-block;
-    text-align: center;
-}
-.info> * {
-    display: inline-block;
-    text-align: center;
-}
-.quote> * {
-    display: inline-block;
-    text-align: center;
-}
-.welcome> * {
-    padding: 70px 0;
 }
 
-.main{
-    background-color: rgb(162, 255, 112);
+.sub-title{
+    width: 200px;
+    text-align: center;
 }
-.footer{
-    background-color: rgb(255, 227, 17);
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 400px;
+  }
+
+.description{
+    text-align: center;
+    font-size: large;
+    line-height: 1.72;
+    color: #5a5a5a; 
+  }
+
+.main-one{
+    text-align: center;
+    padding: 80px;
 }
